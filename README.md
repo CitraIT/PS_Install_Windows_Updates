@@ -1,2 +1,2 @@
 # PS_Install_Windows_Updates
-Powershell script to download and install pending Windows Updates
+Script Powershell que realiza pesquisa, donwload e instalação de atualizações pendentes do Windows.
